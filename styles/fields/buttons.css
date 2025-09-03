@@ -10,7 +10,7 @@ button {
         color: white;
         background-color: #E43A12;
 
-        &:hover, 
+        &:hover,
         &:focus {
             background-color: #F3541C;
         }
@@ -20,12 +20,10 @@ button {
         margin-left: auto;
         border: 1px solid var(--text-highlight);
 
-        &:hover, 
+        &:hover,
         &:focus {
             color: #E43A12;
             outline: .25rem solid var(--surface-secondary);
-            
         }
-
     }
 }

@@ -23,7 +23,7 @@ textarea:focus,
 input[type="date"] 
 :focus-within {
     outline: .25rem solid var(--surface-secondary);
-    border: .125rem solid var(--stroke-highlight);
+    border: .125rem solid var(--stroke-hightlight);
     outline-offset: .1px;
 }
 
